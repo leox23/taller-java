@@ -1,9 +1,12 @@
 import catorce.Catorce;
+import dieciocho.Dieciocho;
+import dieciseis.Dieciseis;
 import diez.Diez;
 import doce.Doce;
 import nueve.Nueve;
 import ocho.Ocho;
 import once.Once;
+import quince.Quince;
 import seis.Seis;
 import siete.Siete;
 import trece.Trece;
@@ -23,6 +26,9 @@ public class Main {
         //Doce.compararStrings();
         //Trece.darfechYhora();
         //Catorce.contarHastaMilSaltosDeDos();
+        //Quince.menuMovie();
+        //Dieciseis.startTest();
+        //Dieciocho.startTest();
     }
 
 }

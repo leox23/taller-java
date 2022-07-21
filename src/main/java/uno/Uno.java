@@ -7,8 +7,8 @@ public class Uno {
     private Uno() {}
 
     public static void numeroMayorQue() {
-        Integer primerValor = 3;
-        Integer segundoValor = 8;
+        Integer primerValor = 2;
+        Integer segundoValor = 7;
 
         if (primerValor < segundoValor){
             log.info("El segundo numero es mayor");
