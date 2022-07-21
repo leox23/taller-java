@@ -7,6 +7,9 @@ public class Seis {
     public static final Logger log = Logger.getLogger(String.valueOf(Seis.class));
     private Seis() {}
 
+    /**
+     * Metodo que muestra los pares e impares que hay del 1 al 100, pero usando un for
+     */
     public static void verParesImparesFor() {
         ArrayList<String> numerosPares = new ArrayList<>();
         ArrayList<String> numerosImpares = new ArrayList<>();

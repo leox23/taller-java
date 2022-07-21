@@ -4,6 +4,7 @@ import lombok.Data;
 
 import static dieciseis.Ejecutable.random;
 
+
 @Data
 public class Persona {
     private String nombre="";
@@ -34,6 +35,11 @@ public class Persona {
        return peso/(altura*altura);
     }
 
+    /**
+     * Metodo que clacula el indice de masa corporal
+     * @param persona varable tipo Persona
+     * @return un int que refleja el estado de peso de la persona
+     */
     public Integer IMC(Persona persona) {
         Double imc= persona.calculoDeIMC();
         if(imc<20.0) {
@@ -45,6 +51,10 @@ public class Persona {
         }
     }
 
+    /**
+     * Metodo para ver verificar si una persona es mayor de edad
+     * @return
+     */
     public boolean esMayorDeEdad(){
         Boolean mayor;
         if (edad>18){
@@ -55,11 +65,19 @@ public class Persona {
         return mayor;
     }
 
+    /**
+     * metodo para generar dni random
+     * @return  Integer
+     */
     public Integer generarDNI(){
         Integer numDni=random(99999999,00000000);
-        return null;
+        return numDni;
     }
 
+    /**
+     * metodo que verifica el sexo
+     * @return char, H si hombre o F si es mujer
+     */
     public char verificarSexo(){
         char sex;
         if (sexo.equals("M")){

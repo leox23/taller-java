@@ -2,6 +2,9 @@ package dieciocho;
 
 import lombok.Data;
 
+/**
+ * clase tipo dato que sera la implementacion de la interfaz Entregable
+ */
 @Data
 public class Videojuego implements Entregable{
     private String titulo="";

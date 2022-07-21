@@ -2,6 +2,9 @@ package dieciseis;
 
 import java.util.logging.Logger;
 
+/**
+ * Clase destinada a probar la funcionalidad de la app
+ */
 public class Dieciseis {
 
     public static final Logger log = Logger.getLogger(String.valueOf(Dieciseis.class));

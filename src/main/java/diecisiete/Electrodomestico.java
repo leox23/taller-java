@@ -1,6 +1,8 @@
 package diecisiete;
 
-
+/**
+ * superclase base de la app
+ */
 public class Electrodomestico {
     public static Integer precioBase = 100;
     public String color = "blanco";
@@ -39,6 +41,11 @@ public class Electrodomestico {
         return peso;
     }
 
+    /**
+     * Metodo que da el precio que aumenta el producto por consumo
+     * @param letra char que representa el consumo del electrodomestico
+     * @return int que sumara al precio
+     */
     private static Integer precioPorConsumoEnergetico(char letra) {
         switch (Character.toLowerCase(letra)){
             case 'a':
@@ -56,6 +63,10 @@ public class Electrodomestico {
         }
     }
 
+    /**
+     * metodo que verifica la existencia del color del producto, no se pidio implemntacion
+     * @param color nada aun
+     */
     private void comprobarColor(String color){
         //metodo no usado, quedara asi
         switch (color.toLowerCase()){

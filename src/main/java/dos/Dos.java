@@ -9,6 +9,9 @@ public class Dos {
 
     public static final Logger log = Logger.getLogger(String.valueOf(Dos.class));
 
+    /**
+     * Recibe 2 numeros por teclado del usuario y los compara
+     */
     public static void numeroMayorQue() {
         Scanner scan = new Scanner(System.in);
         log.info("Ingresa el primer numero a comparar");

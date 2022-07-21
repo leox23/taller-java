@@ -8,6 +8,11 @@ public class Once {
 
     public static final Logger log = Logger.getLogger(String.valueOf(Once.class));
 
+    /**
+     * metodo que recibe una frase por teclado,
+     * y cuenta cuantas vocales tiene respectivamente,
+     * y da la longitud de la frase
+     */
     public static void contarVocales(){
         Scanner scan = new Scanner(System.in);
         log.info("Introduce un string:");

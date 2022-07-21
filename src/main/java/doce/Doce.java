@@ -7,11 +7,14 @@ public class Doce {
     Doce(){}
     public static final Logger log = Logger.getLogger(String.valueOf(Doce.class));
 
+    /**
+     * Metodo que recibe dos palabras del usuario y las compara
+     */
     public static void compararStrings() {
         Scanner scan = new Scanner(System.in);
-        log.info("Introduce el primer string a comparar");
+        log.info("Introduce la primera palabra a comparar");
         String string1 = scan.nextLine();
-        log.info("Introduce el segundo string a comparar");
+        log.info("Introduce la segunda palabra a comparar");
         String string2 = scan.nextLine();
         Integer minorLength = 0;
         StringBuilder comparator = new StringBuilder("");
@@ -39,7 +42,7 @@ public class Doce {
                 comparator.append("↕");
             }
 
-            //para legibilidad
+            //para legibilidad se usa SystemOut.
             log.info("Los strings son diferentes:");
             System.out.println("String1: " + string1);
             System.out.println("Diferen: " + comparator);

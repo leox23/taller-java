@@ -7,6 +7,10 @@ public class Cuatro {
     public static final Logger log = Logger.getLogger(String.valueOf(Cuatro.class));
     private Cuatro(){}
 
+    /**
+     * Se recibe precio de un producto para devolver resultado
+     * del precio total con el IVA
+     */
     public static void precioTotalConIva(){
         Scanner scan = new Scanner(System.in);
         Integer valorIva = 21;

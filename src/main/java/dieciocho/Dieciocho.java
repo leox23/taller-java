@@ -2,6 +2,9 @@ package dieciocho;
 
 import static uno.Uno.log;
 
+/**
+ * Clase y metodo que prueba nuestra app que se implementa en Entregable
+ */
 public class Dieciocho {
     public static void startTest(){
         Serie[] series = {new Serie("Friends","Warner"),

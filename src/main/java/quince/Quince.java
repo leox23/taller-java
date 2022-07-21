@@ -8,6 +8,9 @@ public class Quince {
 
     public static final Logger log = Logger.getLogger(String.valueOf(Quince.class));
 
+    /**
+     * metodo que muestra un menu, se repite si seleccionas cualquiera, pero si selecciona 8 se cierra la app.
+     */
     public static void menuMovie() {
         Scanner scan = new Scanner(System.in);
         String menuSelection = "****** GESTION CINEMATOGRÁFICA ********" +

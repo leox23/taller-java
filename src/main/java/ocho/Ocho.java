@@ -7,6 +7,9 @@ public class Ocho {
     public static final Logger log = Logger.getLogger(String.valueOf(Ocho.class));
     Ocho(){}
 
+    /**
+     * metodo que lee un dia de la semana por texto, y responde si es dia libre o si es un dia laborable
+     */
     public static void diaDeSemana() {
         Scanner scan = new Scanner(System.in);
         String inputDia;

@@ -2,10 +2,16 @@ package uno;
 
 import java.util.logging.Logger;
 
+/**
+ * Clase para comparar numeros
+ */
 public class Uno {
     public static final Logger log = Logger.getLogger(String.valueOf(Uno.class));
     private Uno() {}
 
+    /**
+     * metodo que compreueba un primer numero con un segundo, dice cual e mayor, o si son iguales
+     */
     public static void numeroMayorQue() {
         Integer primerValor = 2;
         Integer segundoValor = 7;

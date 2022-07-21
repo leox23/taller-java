@@ -7,6 +7,9 @@ public class Siete {
     public static final Logger log = Logger.getLogger(String.valueOf(Siete.class));
     private Siete(){}
 
+    /**
+     * Metodo que valida si el numero que introduce el usuario es mayor que cero
+     */
     public static void validarMayorQueCero() {
         Scanner scan = new Scanner(System.in);
         Integer numero;

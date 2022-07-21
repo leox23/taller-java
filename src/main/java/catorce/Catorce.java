@@ -7,6 +7,9 @@ public class Catorce {
 
     private static final Logger log = Logger.getLogger(String.valueOf(Catorce.class));
 
+    /**
+     * metodo que recibe un numero y cuenta de dos en dos hasta mil, imprimiendolos por consola
+     */
     public static void contarHastaMilSaltosDeDos() {
         Scanner scan = new Scanner(System.in);
         log.info("Introduce el numero, y contaremos desde alli de dos en dos");

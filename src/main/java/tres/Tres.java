@@ -7,6 +7,10 @@ public class Tres {
     public static final Logger log = Logger.getLogger(String.valueOf(Tres.class));
     private Tres() {}
 
+    /**
+     * Calculador de area de un ciculo,
+     * se recibe del usuario el radio del circulo para el calculo
+     */
     public static void calcularAreaDeCirculo(){
         Scanner scan = new Scanner(System.in);
         log.info("Ingresa radio del circulo");

@@ -9,6 +9,9 @@ public class Cinco {
 
     public static final Logger log = Logger.getLogger(String.valueOf(Cinco.class));
 
+    /**
+     * Metodo que muestra los pares e impares que hay del 1 al 100
+     */
     public static void verParesImpares() {
         ArrayList<String> numerosPares = new ArrayList<>();
         ArrayList<String> numerosImpares = new ArrayList<>();

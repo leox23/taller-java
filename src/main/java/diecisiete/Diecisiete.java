@@ -2,9 +2,12 @@ package diecisiete;
 
 import java.util.logging.Logger;
 
+/**
+ * Clase destinada a probar la funcionalidad de la app
+ */
 public class Diecisiete {
     private static final Logger log = Logger.getLogger(String.valueOf(Diecisiete.class));
-    public static void main2(){
+    public static void startTest(){
         Electrodomestico[] electrodomesticos = {
                 new Electrodomestico(),
                 new Electrodomestico(300, 41),

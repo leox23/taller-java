@@ -5,8 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd7d7de1-fbeb-4fd4-a767-158635e201a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/0978caaa76a7bd4b63dd805dfb854f2b63e48472" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29692d88892f9689e7de667ef6f6fb435296f6e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/3392463dba85047c8c557aaaa899fccdfc0bce6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/366d54c5de1d5f3cc3964b845180c1322bca2953" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dd891c86887c8da2f108da96128918ecb80e76e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/72a57c3e5b83a9ae4803d131200337f3ec2a6500" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e178296c2fb20421f3f09caadeeb6d862cd008a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a25c1308a0d019065e4c828f3f751b67707c0185" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abf6893e7202607ae820c01f1f8aea5dd3245b56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e984dd30db757f2e4d9b4d0775e74ef7aae2bc80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fac779d64e61488694cb6438e448d742f1971479" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/catorce/Catorce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/catorce/Catorce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cinco/Cinco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cinco/Cinco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cuatro/Cuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cuatro/Cuatro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dieciocho/Dieciocho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dieciocho/Dieciocho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dieciocho/Entregable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dieciocho/Entregable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dieciocho/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dieciocho/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dieciocho/Videojuego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dieciocho/Videojuego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dieciseis/Dieciseis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dieciseis/Dieciseis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dieciseis/Ejecutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dieciseis/Ejecutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dieciseis/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dieciseis/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/diecisiete/Diecisiete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/diecisiete/Diecisiete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/diecisiete/Electrodomestico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/diecisiete/Electrodomestico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/diecisiete/Lavadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/diecisiete/Lavadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/diecisiete/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/diecisiete/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/diez/Diez.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/diez/Diez.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/doce/Doce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/doce/Doce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dos/Dos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dos/Dos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nueve/Nueve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nueve/Nueve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocho/Ocho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocho/Ocho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/once/Once.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/once/Once.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/quince/Quince.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quince/Quince.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seis/Seis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seis/Seis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/siete/Siete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/siete/Siete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trece/Trece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trece/Trece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tres/Tres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tres/Tres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uno/Uno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uno/Uno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/catorce/Catorce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/catorce/Catorce.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/cinco/Cinco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cinco/Cinco.class" afterDir="false" />
@@ -17,6 +55,7 @@
       <change beforePath="$PROJECT_DIR$/target/classes/nueve/Nueve.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nueve/Nueve.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ocho/Ocho.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ocho/Ocho.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/once/Once.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/once/Once.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quince/Quince.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/quince/Quince.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/seis/Seis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/seis/Seis.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/siete/Siete.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/siete/Siete.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/trece/Trece.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/trece/Trece.class" afterDir="false" />
